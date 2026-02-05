@@ -1,0 +1,2 @@
+# This file tells GitHub Pages not to process with Jekyll
+# Jekyll ignores files starting with underscore, which can break Pyodide
